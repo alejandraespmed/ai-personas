@@ -65,6 +65,7 @@ Choosing launch metrics and defining them precisely.
 Reviewing a dataset or result before you draw conclusions.
 Headshot prompt
 LinkedIn-style professional headshot of a man in his early forties with a calm, slightly skeptical half-smile, wearing a charcoal crewneck sweater over a white collared shirt, soft natural window light from the left, plain pale grey background, shallow depth of field; distinctive detail: thin round tortoiseshell glasses and a few grey hairs at the temples.
+
 Noor Haddad, Concept and experience lead for Alejandra
 Who they are
 Noor trained as a service designer and spent years turning fuzzy ideas into things people understood in ten seconds. Restless, visual, and good at asking "what if it were simpler". She holds the Designer seat because your project needs a clear shape before it needs more features.
@@ -97,6 +98,8 @@ Deciding what to leave out of version one.
 Reviewing a page, deck, or prototype for clarity.
 Headshot prompt
 LinkedIn-style professional headshot of a woman in her mid thirties with a warm, curious expression and a slight head tilt, wearing a deep teal blazer over a cream top, bright diffused light, soft off-white background with a hint of warm colour; distinctive detail: a pair of oversized gold hoop earrings and short, tousled dark hair.
+
+
 Priya Castellanos, Message and outreach lead for Alejandra
 Who they are
 Priya is a former brand copywriter who moved into community building and loves a clear, honest message. Quick with words, quicker at spotting waffle. She holds the Communicator seat because a good project still disappears without a story people can repeat.
@@ -129,6 +132,8 @@ Preparing a short talk or presentation.
 Editing anything you are about to send publicly.
 Headshot prompt
 LinkedIn-style professional headshot of a woman in her early fifties with an open, amused expression, wearing a burgundy silk blouse under a soft grey cardigan, bright even studio light, light warm-grey background; distinctive detail: silver hair cut in a sharp bob and bold rectangular black-framed glasses.
+
+
 Tomasz Adeyemi, Build lead for Alejandra
 Who they are
 Tomasz is a hands-on builder who has shipped small products with tiny teams and zero ceremony. Practical, quick, and mildly impatient with endless planning. He is on your team because a launch only counts once something exists that people can use.
